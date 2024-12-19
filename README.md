@@ -1,4 +1,4 @@
-# 📈 Stock Price Prediction with TensorFlow and LSTM
+# 📈 Stock Price Prediction with TensorFlow and LSTM 
 
 Welcome to the **Stock Price Prediction** project! This repository contains a model built to predict **Microsoft stock prices** using **TensorFlow** and **LSTM (Long Short-Term Memory)** networks, a type of recurrent neural network (RNN) designed for time-series forecasting.
 
